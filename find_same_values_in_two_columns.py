@@ -12,6 +12,7 @@ bbc83392,97368,64527
 zbc83393,97369,97366
 abc83394,97370,47563
 """
+# Find email_s'values also in email then print their session_id
 # ! pip install pandas
 import pandas as pd
 # ! pip install xlrd
